@@ -35,6 +35,17 @@ The goal of this project is to create a digital bridal service platform that imp
 - Booking history tracking
 - Mobile optimization
 
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.jpg)
+
+### Booking Page
+![Booking Page](screenshots/bookingpage.jpg)
+
+### Packages
+![Packages](screenshots/packageoage.jpg)
+
 ## Author
 
 Selamawit Mekbib
