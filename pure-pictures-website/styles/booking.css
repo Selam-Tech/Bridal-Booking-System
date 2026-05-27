@@ -1,0 +1,87 @@
+.booking-page {
+    padding: 120px 20px;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.subtitle {
+    color: #777;
+    margin-bottom: 20px;
+}
+
+.booking-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.booking-form input,
+.booking-form select,
+.booking-form textarea {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+.booking-form textarea {
+    min-height: 100px;
+}
+
+.booking-form h3 {
+    margin-top: 20px;
+    color: #c9a86a;
+}
+
+.confirmation-page {
+    padding: 120px 20px;
+    text-align: center;
+}
+
+.confirmation-box {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 12px;
+    background: #fff;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    text-align: left;
+}
+
+.confirmation-box p {
+    margin: 8px 0;
+}
+
+.confirmation-box ul {
+    margin-left: 20px;
+}
+
+
+
+.flatpickr-day.disabled {
+   
+    color: white !important;
+    border-radius: 50%;
+}
+
+.flatpickr-day.today {
+    border: 1px solid #c9a86a;
+}
+
+.flatpickr-day.selected {
+    background: #c9a86a !important;
+    color: white;
+}
+
+.booked-day {
+    
+    color: white !important;
+    border-radius: 6px;
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+.flatpickr-day:hover {
+    background: #c9a86a;
+    color: white;
+}
