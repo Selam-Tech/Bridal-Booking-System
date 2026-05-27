@@ -45,7 +45,7 @@ The goal of this project is to create a digital bridal service platform that imp
 ![Booking Page](/screenshoots/bookingpage.jpg)
 
 ### Packages
-![Packages](/screenshots/packageoage.jpg)
+![Packages](/screenshoots/packageoage.jpg)
 
 ## Author
 
