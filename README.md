@@ -31,17 +31,18 @@ The goal of this project is to create a digital bridal service platform that imp
 
 - Admin dashboard
 - Payment integration
-- User authentication system
+- User authentication system                        
+
 - Booking history tracking
 - Mobile optimization
 
 ## Screenshots
 
 ### Homepage
-![Homepage](/screenshoots/bookingpage.jpg)
+![Homepage](/screenshoots/homepage.jpg)                           
 
 ### Booking Page
-![Booking Page](/screenshots/bookingpage.jpg)
+![Booking Page](/screenshoots/bookingpage.jpg)
 
 ### Packages
 ![Packages](/screenshots/packageoage.jpg)
